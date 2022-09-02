@@ -23,5 +23,5 @@ int main ()
     cout << "Enter value " << i << ": ";
     cin >> values[ i ];
   }
-  cout << sumArray(values, 10) << endl;
+  cout << sumArray(values, 5) << endl;
 }
